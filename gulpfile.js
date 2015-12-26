@@ -3,10 +3,13 @@ var gulp = require('gulp'),
     eslint = require('gulp-eslint'),
     mocha = require('gulp-mocha');
 
+require('gulp-release-tasks')(gulp);
+
 var paths = {
   scripts: ['index.js'],
   tests: ['test/**/*.js']
 };
+
 
 gulp.task('lint', function() {
   return gulp.src(paths.scripts)

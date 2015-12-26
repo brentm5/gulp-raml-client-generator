@@ -32,6 +32,7 @@
     "gulp-clean": "^0.3.1",
     "gulp-eslint": "^1.1.1",
     "gulp-mocha": "^2.2.0",
+    "gulp-release-tasks": "0.0.3",
     "mocha": "^2.3.4"
   }
 }
