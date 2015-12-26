@@ -1,14 +1,12 @@
 [![Travis branch](https://img.shields.io/travis/bigbam505/gulp-raml-client-generator/master.svg?style=flat-square)](https://travis-ci.org/bigbam505/gulp-raml-client-generator)
-RAML Client Generator for Gulp
-==============================
+# RAML Client Generator for Gulp
 
-# Purpose
+## Purpose
 
-This allows for a raml file to be turned into a client library via the
-javascript-raml-generator node module
+This allows for a raml file to be turned into a client library via the javascript-raml-generator node module with gulp even easier!
 
 
-# Usage
+## Usage
 
 The basic usage is as such
 
