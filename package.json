@@ -1,6 +1,6 @@
 {
   "name": "gulp-raml-client-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A gulp task to generate a client library",
   "main": "index.js",
   "scripts": {
