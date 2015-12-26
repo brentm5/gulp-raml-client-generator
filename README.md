@@ -1,3 +1,4 @@
+[![Travis branch](https://img.shields.io/travis/bigbam505/gulp-raml-client-generator/master.svg?style=flat-square)](https://github.com/bigbam505/gulp-raml-client-generator)
 RAML Client Generator for Gulp
 ==============================
 
